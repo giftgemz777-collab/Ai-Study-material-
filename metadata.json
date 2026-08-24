@@ -1,0 +1,6 @@
+{
+  "name": "AI StudyMate",
+  "description": "AI-powered college study companion for note summarization, MCQ practice, viva preparation, flashcards, and Pomodoro study tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
